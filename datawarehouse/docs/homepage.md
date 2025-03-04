@@ -1,7 +1,5 @@
 {% docs __overview__ %}
 
-### README do Projeto DBT-Core
-
 # Projeto DBT-Core para Data Warehouse de Atenção Básica no Município
 
 Este projeto utiliza DBT (Data Build Tool) para gerenciar e transformar dados de um Data Warehouse (DW) voltado para a Atenção Básica no Município. O objetivo é criar um pipeline de dados robusto e eficiente para tratar e organizar os dados relacionados à saúde básica, como planos de saúde e movimentações dos pacientes, facilitando a análise e a geração de insights.
