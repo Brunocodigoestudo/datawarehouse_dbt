@@ -30,28 +30,31 @@ O projeto inicia com **901.944** linhas de dados extraídas dos arquivos CSV. Ap
 
 ## Como Executar o Projeto
 
-1. **Instalar dependências**:
+1. **Ativar ambiente virtual**:
    ```sh
-   dbt deps
+   poetry shell
    ```
-2. **Executar as transformações**:
+
+2. **Instalar dependências**:
+   ```sh
+   poetry install
+   ```
+3. **Verificar conexão com dbt**:
+   ```sh
+   dbt debug
+   ```
+4. **Gerar vw**:
    ```sh
    dbt run
    ```
-3. **Verificar a qualidade dos dados**:
-   ```sh
-   dbt test
-   ```
-4. **Gerar documentação do projeto**:
+5. **Gerar documentação do projeto**:
    ```sh
    dbt docs generate
    ```
-
----
-
-## Contribuições
-
-Sinta-se à vontade para contribuir com este projeto! Abra um **issue** ou envie um **pull request** com melhorias.
+6. **Gerar documentação do projeto online**:
+   ```sh
+   dbt docs serve
+   ```
 
 ---
 
