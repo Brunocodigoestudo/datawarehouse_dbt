@@ -1,0 +1,36 @@
+* [33m92cc90d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m agora sim
+* [33mcfe181f[m[33m ([m[1;31morigin/main[m[33m)[m analista config deploy
+* [33m89cb9ce[m analista de dados
+*   [33mb17fb45[m Merge branch 'main' of https://github.com/Brunocodigoestudo/datawarehouse_dbt
+[32m|[m[33m\[m  
+[32m|[m * [33m006db71[m Update README.md
+[32m|[m * [33mc3cde4f[m Update README.md
+[32m|[m * [33mfe848c1[m docs funcionando
+[32m|[m * [33ma536eae[m Copiando arquivos e pastas do projeto atencao_basica_municipo
+[32m|[m * [33m49a3e48[m Copiando arquivos do projeto atencao_basica_municipo
+* [33m|[m [33m126ffe3[m analista de dados
+[33m|[m[33m/[m  
+* [33m14980e1[m first commit
+* [33m04059a7[m[33m ([m[1;31morigin/voltei_para_stg_e_dm_ok[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mvoltei_para_stg_e_dm_ok[m[33m)[m README ATUALIZADO
+* [33mcce253a[m README ATUALIZADO
+* [33m604fb6a[m Removendo .env do rastreamento do Git em todas as branches
+* [33m2ccb622[m env
+* [33md318bca[m docs docs
+* [33m509aaef[m pequeno ajuste md
+* [33m0af6dd0[m docs README e DBT
+* [33m330d5b6[m docs quase pronta
+* [33mabccd14[m docs quase funcionando
+* [33m4187a11[m docs atualaizado para funcionar
+* [33m7a7ade7[m add dbt_docs
+* [33m3a8d66f[m docs novos
+* [33m3db8b3a[m stg e mart ok ok
+[34m|[m * [33m82cd69b[m[33m ([m[1;31morigin/nome-da-nova-branch[m[33m)[m Salvando alterações antes de fazer checkout
+[34m|[m * [33m0af6430[m ajustes
+[34m|[m * [33meb17050[m docs
+[34m|[m * [33m5aa3243[m docs
+[34m|[m * [33md639eb6[m[33m ([m[1;31morigin/nome-do-novo-branch[m[33m)[m e=stg e dm ok
+[34m|[m[34m/[m  
+* [33m62837ab[m stg no postgres
+* [33m286b848[m dbt_conectado
+* [33m3ec5007[m levar os dados para postgres
+* [33m2dd6202[m first commit
